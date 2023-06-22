@@ -1,4 +1,7 @@
-Hello world!
+The world!
+
+名前 : onion
+誕生日 : 9月4日
 
 名前 : uma
 誕生日 : 4月10日
@@ -9,4 +12,3 @@ Hello world!
 メンター
 名前：ERASER
 誕生日：9月13日
-
